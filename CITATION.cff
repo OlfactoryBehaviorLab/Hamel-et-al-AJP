@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Hamel-et-al-AJP
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Elizabeth
+    family-names: Hamel
+    affiliation: Florida State University
+    email: hamel@psy.fsu.edu
+  - given-names: Ginger
+    family-names: Blonde
+    email: blonde@neuro.fsu.edu
+    affiliation: Florida State University
+  - given-names: Ellie
+    family-names: Williams
+    email: ewilliams@psy.fsu.edu
+    affiliation: Florida State University
+  - given-names: Adam
+    family-names: Dewan
+    email: dewan@psy.fsu.edu
+    affiliation: Florida State University
+  - given-names: Alan
+    family-names: Spector
+    email: spector@psy.fsu.edu
+    affiliation: Florida State University
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15164483
+url: 'https://github.com/OlfactoryBehaviorLab/Hamel-et-al-AJP'
+abstract: >-
+  Data for the Hamel et. al, 2025 publication published in
+  the American Journal of Physiology-Regulatory, Integrative
+  and Comparative Physiology
+version: v1.0
